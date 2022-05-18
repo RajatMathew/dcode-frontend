@@ -84,7 +84,7 @@ function Todo7() {
             </div>
           </div>
           <div className="window-body" style={{ padding: 5 }}>
-            <p>Hope you remember all the past levels :)</p>
+            <p>{question}Hope you remember all the past levels :)</p>
 
             <form onSubmit={submitHandler}>
               <input

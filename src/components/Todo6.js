@@ -88,6 +88,7 @@ function Todo6() {
 
             <div className="belfort">
               <img
+                alt="blf"
                 className="questionImage belfort-image"
                 src="https://res.cloudinary.com/drli5a6xv/image/upload/v1652866858/Frame_1_2_llbrwd.png"
               />
